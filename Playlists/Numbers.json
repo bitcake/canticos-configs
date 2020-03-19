@@ -1,0 +1,27 @@
+{
+	"name": "Numbers-0-5",
+	"cover_images": [
+		{
+			"url": "PathwayThumb_Numbers"
+		}
+	],
+	"tracks": {
+		"items": [
+			{
+				"uri": "Lessons/Numbers/Lesson_Count_Elephant"
+			},
+			{
+				"uri": "Lessons/Numbers/Lesson_Count_Candy"
+			},
+			{
+				"uri": "Lessons/Numbers/Lesson_Drag_Elephant"
+			},
+			{
+				"uri": "Lessons/Numbers/Lesson_Pinata"
+			},
+			{
+				"uri": "Lessons/Numbers/Tracing_0"
+			}
+		]
+	}
+}

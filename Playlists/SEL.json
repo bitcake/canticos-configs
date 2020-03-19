@@ -1,0 +1,33 @@
+{
+	"name": "SEL-Emotions",
+	"cover_images": [
+		{
+			"url": "PathwayThumb_SEL"
+		}
+	],
+	"tracks": {
+		"items": [
+			{
+				"uri": "Lessons/SEL/Lesson_Emotion_Angry"
+			},
+			{
+				"uri": "Lessons/SEL/Lesson_Emotion_Afraid"
+			},
+			{
+				"uri": "Lessons/SEL/Lesson_Emotion_Excited"
+			},
+			{
+				"uri": "Lessons/SEL/Lesson_Emotion_Happy"
+			},
+			{
+				"uri": "Lessons/SEL/Lesson_Emotions"
+			},
+			{
+				"uri": "Lessons/SEL/Lesson_Sammy"
+			},
+			{
+				"uri": "Lessons/SEL/Breathing"
+			}
+		]
+	}
+}

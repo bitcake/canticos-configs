@@ -1,0 +1,21 @@
+{
+	"name": "DrumBeats",
+	"cover_images": [
+		{
+			"url": "PathwayThumb_Music"
+		}
+	],
+	"tracks": {
+		"items": [
+			{
+				"uri": "Lessons/Music/Lesson_Drums_Easy"
+			},
+			{
+				"uri": "Lessons/Music/Lesson_Drums_Medium"
+			},
+			{
+				"uri": "Lessons/Music/Lesson_Drums_Hard"
+			}
+		]
+	}
+}
