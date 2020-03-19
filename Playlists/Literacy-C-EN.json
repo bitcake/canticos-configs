@@ -1,0 +1,28 @@
+{
+	"name": "Literacy-C-EN",
+	"cover_images": [
+		{
+			"url": "PathwayThumb_Literacy-C-EN"
+		}
+	],
+	"tracks": {
+		"items": [
+			{
+				"uri": "Lessons/Literacy/Lesson_Cat_EN",
+				"language": "en"
+			},
+			{
+				"uri": "Lessons/Literacy/Lesson_Choices_EN",
+				"language": "en"
+			},
+			{
+				"uri": "Lessons/Literacy/Lesson_Bubbles",
+				"language": "en"
+			},
+			{
+				"uri": "Lessons/Literacy/Lesson_Tracing_C",
+				"language": "en"
+			}
+		]
+	}
+}
