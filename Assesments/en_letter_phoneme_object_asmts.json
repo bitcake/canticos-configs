@@ -1,11 +1,11 @@
 [
     {
-        "id": "c64546bd7c5f749fae086167",
+        "id": "21b3c1873695fd628aa617b1",
         "language": "en",
         "type": "multiple_choice",
         "answer_type": "single_answer",
         "learning_objective": {
-            "id": "",
+            "id": "6f8f57715090da2632453988d9a1501b",
             "type": "word_image",
             "name": "m"
         },
@@ -13,109 +13,21 @@
         "reprompt": "Tap the picture with the first sound {m_sound}",
         "choices": [
             {
-                "id": "0",
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
                 "type": "text",
-                "value": "ladder",
+                "value": "cow",
                 "is_correct": false
             },
             {
-                "id": "1",
-                "type": "text",
-                "value": "moon",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "duck",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.463912Z"
-    },
-    {
-        "id": "5ada5bca4a9aaaa052cbfa00",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "cat",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "gift",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "alligator",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464096Z"
-    },
-    {
-        "id": "8fad0229ea4e37959015cac7",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "l"
-        },
-        "prompt": "Tap the picture with the first sound {l_sound} {l_sound}",
-        "reprompt": "Tap the picture with the first sound {l_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "lemon",
-                "is_correct": true
-            },
-            {
-                "id": "1",
+                "id": "9726255eec083aa56dc0449a21b33190",
                 "type": "text",
                 "value": "money",
-                "is_correct": false
+                "is_correct": true
             },
             {
-                "id": "2",
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
                 "type": "text",
-                "value": "car",
+                "value": "orca",
                 "is_correct": false
             }
         ],
@@ -126,18 +38,18 @@
             },
             "correct_count": 1,
             "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
+            "difficulty": 0.9722222222222222,
             "is_auto_generated": true
         },
-        "created_ts": "2020-03-02T19:06:39.464180Z"
+        "created_ts": "2020-03-20T01:27:30.110966Z"
     },
     {
-        "id": "1f09c80d95a77756e931a0da",
+        "id": "74b0d58ee061e5c0aeae4813",
         "language": "en",
         "type": "multiple_choice",
         "answer_type": "single_answer",
         "learning_objective": {
-            "id": "",
+            "id": "4a8a08f09d37b73795649038408b5f33",
             "type": "word_image",
             "name": "c"
         },
@@ -145,461 +57,21 @@
         "reprompt": "Tap the picture with the first sound {c_sound}",
         "choices": [
             {
-                "id": "0",
-                "type": "text",
-                "value": "octopus",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "astronaut",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "couch",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464258Z"
-    },
-    {
-        "id": "422741b554c2e51e18362c25",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "d"
-        },
-        "prompt": "Tap the picture with the first sound {d_sound} {d_sound}",
-        "reprompt": "Tap the picture with the first sound {d_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "mop",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "gift",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "dog",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464333Z"
-    },
-    {
-        "id": "9fd85265b475af5e6c7743a1",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "glasses",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "car",
-                "is_correct": true
-            },
-            {
-                "id": "2",
+                "id": "1f3870be274f6c49b3e31a0c6728957f",
                 "type": "text",
                 "value": "apple",
                 "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464407Z"
-    },
-    {
-        "id": "1b408e5f37b7e05b82f1e701",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "a"
-        },
-        "prompt": "Tap the picture with the first sound {a_sound} {a_sound}",
-        "reprompt": "Tap the picture with the first sound {a_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "astronaut",
-                "is_correct": true
             },
             {
-                "id": "1",
-                "type": "text",
-                "value": "diamond",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "couch",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464483Z"
-    },
-    {
-        "id": "4aae997a4d165ff763696265",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "gift",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "ox",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "car",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464559Z"
-    },
-    {
-        "id": "9d6d569d764e9f4cbb02d590",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "d"
-        },
-        "prompt": "Tap the picture with the first sound {d_sound} {d_sound}",
-        "reprompt": "Tap the picture with the first sound {d_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "car",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "duck",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "apple",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464633Z"
-    },
-    {
-        "id": "f83afaf195e81a976dd53e00",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "money",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "cat",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "gift",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464707Z"
-    },
-    {
-        "id": "f8db16b3b2018f4c7440ba40",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "d"
-        },
-        "prompt": "Tap the picture with the first sound {d_sound} {d_sound}",
-        "reprompt": "Tap the picture with the first sound {d_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "duck",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "car",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "octopus",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464781Z"
-    },
-    {
-        "id": "b13d9522b98bfca098e523ce",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "l"
-        },
-        "prompt": "Tap the picture with the first sound {l_sound} {l_sound}",
-        "reprompt": "Tap the picture with the first sound {l_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "moon",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "gift",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "lemon",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464854Z"
-    },
-    {
-        "id": "f834055bfde8ea8d4f5f1eed",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "otter",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "astronaut",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "car",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.464927Z"
-    },
-    {
-        "id": "f04d8424a7433c91f6a093e5",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "a"
-        },
-        "prompt": "Tap the picture with the first sound {a_sound} {a_sound}",
-        "reprompt": "Tap the picture with the first sound {a_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "gift",
-                "is_correct": false
-            },
-            {
-                "id": "1",
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
                 "type": "text",
                 "value": "log",
                 "is_correct": false
             },
             {
-                "id": "2",
+                "id": "005d05de29487ec44cd07bd9d757d4e1",
                 "type": "text",
-                "value": "apple",
+                "value": "carrot",
                 "is_correct": true
             }
         ],
@@ -610,150 +82,18 @@
             },
             "correct_count": 1,
             "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
+            "difficulty": 0.9833333333333334,
             "is_auto_generated": true
         },
-        "created_ts": "2020-03-02T19:06:39.465000Z"
+        "created_ts": "2020-03-20T01:27:30.111231Z"
     },
     {
-        "id": "974a8d1efe0c7dbefbf6049c",
+        "id": "54c5e914fd6a86d53f57e740",
         "language": "en",
         "type": "multiple_choice",
         "answer_type": "single_answer",
         "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "moon",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "couch",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "otter",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.465074Z"
-    },
-    {
-        "id": "ee958fd2175ad29dd10f92ce",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "m"
-        },
-        "prompt": "Tap the picture with the first sound {m_sound} {m_sound}",
-        "reprompt": "Tap the picture with the first sound {m_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "money",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "glasses",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "ladder",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.465147Z"
-    },
-    {
-        "id": "476940268c33b1fb187d2b00",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "otter",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "log",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "car",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.465220Z"
-    },
-    {
-        "id": "5e395735569bdb0f729e306a",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
+            "id": "2db95e8e1a9267b7a1188556b2013b33",
             "type": "word_image",
             "name": "l"
         },
@@ -761,107 +101,19 @@
         "reprompt": "Tap the picture with the first sound {l_sound}",
         "choices": [
             {
-                "id": "0",
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
                 "type": "text",
-                "value": "glasses",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "lemon",
+                "value": "log",
                 "is_correct": true
             },
             {
-                "id": "2",
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
                 "type": "text",
-                "value": "octopus",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.465294Z"
-    },
-    {
-        "id": "7ca2dfccc7566b7317473c82",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "alligator",
+                "value": "cow",
                 "is_correct": false
             },
             {
-                "id": "1",
-                "type": "text",
-                "value": "couch",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "ladder",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.465367Z"
-    },
-    {
-        "id": "bb422bea04e7b45a38c4924e",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "a"
-        },
-        "prompt": "Tap the picture with the first sound {a_sound} {a_sound}",
-        "reprompt": "Tap the picture with the first sound {a_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "apple",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "ox",
-                "is_correct": false
-            },
-            {
-                "id": "2",
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
                 "type": "text",
                 "value": "dog",
                 "is_correct": false
@@ -874,53 +126,9 @@
             },
             "correct_count": 1,
             "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
+            "difficulty": 0.8194444444444443,
             "is_auto_generated": true
         },
-        "created_ts": "2020-03-02T19:06:39.465440Z"
-    },
-    {
-        "id": "f17825c67af0b25b4d2a87d0",
-        "language": "en",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
-        "reprompt": "Tap the picture with the first sound {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "cat",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "astronaut",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "money",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:06:39.465513Z"
+        "created_ts": "2020-03-20T01:27:30.111378Z"
     }
 ]
