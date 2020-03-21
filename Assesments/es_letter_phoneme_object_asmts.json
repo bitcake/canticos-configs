@@ -1,11 +1,11 @@
 [
     {
-        "id": "e474d600200e86b0b2632341",
+        "id": "d46c1596e28383989ca1a01f",
         "language": "es",
         "type": "multiple_choice",
         "answer_type": "single_answer",
         "learning_objective": {
-            "id": "",
+            "id": "4a8a08f09d37b73795649038408b5f33",
             "type": "word_image",
             "name": "c"
         },
@@ -13,814 +13,22 @@
         "reprompt": "Toque la imagen que empieza con {c_sound}",
         "choices": [
             {
-                "id": "0",
-                "type": "text",
-                "value": "\u00e1rbol",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "coche",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "oveja",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.064477Z"
-    },
-    {
-        "id": "b042a9e57eeec6701d20c7fc",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "o"
-        },
-        "prompt": "Toque la imagen que empieza con {o_sound} {o_sound}",
-        "reprompt": "Toque la imagen que empieza con {o_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "oso",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "cactus",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "manzana",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.064708Z"
-    },
-    {
-        "id": "eb6e9f03119e2f9a5307d49f",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "a"
-        },
-        "prompt": "Toque la imagen que empieza con {a_sound} {a_sound}",
-        "reprompt": "Toque la imagen que empieza con {a_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "mapa",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "elefante",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "avi\u00f3n",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.064789Z"
-    },
-    {
-        "id": "387df7808b6d03123f3b2574",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "orca",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "uno",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "cactus",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.064867Z"
-    },
-    {
-        "id": "c7be7292a2703d01afdce842",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "o"
-        },
-        "prompt": "Toque la imagen que empieza con {o_sound} {o_sound}",
-        "reprompt": "Toque la imagen que empieza con {o_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "oveja",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "isla",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "mapa",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.064939Z"
-    },
-    {
-        "id": "a5ec0e9a773017cd6f94ccf6",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "unicornio",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "coche",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "orca",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065010Z"
-    },
-    {
-        "id": "1aab426e7362548b58bee623",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "i"
-        },
-        "prompt": "Toque la imagen que empieza con {i_sound} {i_sound}",
-        "reprompt": "Toque la imagen que empieza con {i_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "im\u00e1n",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "agua",
-                "is_correct": false
-            },
-            {
-                "id": "2",
+                "id": "202447d5d44ce12531f7207cb33b6bf7",
                 "type": "text",
                 "value": "casa",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065080Z"
-    },
-    {
-        "id": "eeb69e69c9c5546211eed1db",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "elefante",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "moneda",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "coche",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065149Z"
-    },
-    {
-        "id": "78a2a2c5f7c623ac7f8453fb",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "i"
-        },
-        "prompt": "Toque la imagen que empieza con {i_sound} {i_sound}",
-        "reprompt": "Toque la imagen que empieza con {i_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "oso",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "isla",
                 "is_correct": true
             },
             {
-                "id": "2",
-                "type": "text",
-                "value": "\u00e1rbol",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065219Z"
-    },
-    {
-        "id": "a8d3b8237db3be4590dfe03d",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "cactus",
-                "is_correct": true
-            },
-            {
-                "id": "1",
+                "id": "81b1c93c5f431703e4c3bfb0274305e0",
                 "type": "text",
                 "value": "manzana",
                 "is_correct": false
             },
             {
-                "id": "2",
-                "type": "text",
-                "value": "elefante",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065289Z"
-    },
-    {
-        "id": "5fadff1dd066cc7f51055add",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "e"
-        },
-        "prompt": "Toque la imagen que empieza con {e_sound} {e_sound}",
-        "reprompt": "Toque la imagen que empieza con {e_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "uno",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "avi\u00f3n",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "estrella",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065358Z"
-    },
-    {
-        "id": "df485a9fddba2886dad9bd80",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "agua",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "orca",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "cactus",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065427Z"
-    },
-    {
-        "id": "e12bf8bce08e18fc88065b50",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "a"
-        },
-        "prompt": "Toque la imagen que empieza con {a_sound} {a_sound}",
-        "reprompt": "Toque la imagen que empieza con {a_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "avi\u00f3n",
-                "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "manzana",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "casa",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065550Z"
-    },
-    {
-        "id": "0e6b408e85e603cf65216213",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "\u00e1rbol",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "cactus",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "im\u00e1n",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065621Z"
-    },
-    {
-        "id": "1822357a9a51e4e7be3246ec",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "i"
-        },
-        "prompt": "Toque la imagen que empieza con {i_sound} {i_sound}",
-        "reprompt": "Toque la imagen que empieza con {i_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "oveja",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "casa",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "insectos",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065689Z"
-    },
-    {
-        "id": "464fe45762a51e51c91974ab",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "agua",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "casa",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "estrella",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065758Z"
-    },
-    {
-        "id": "dc95b01c5d396b551bb3496c",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "e"
-        },
-        "prompt": "Toque la imagen que empieza con {e_sound} {e_sound}",
-        "reprompt": "Toque la imagen que empieza con {e_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "unicornio",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "elefante",
-                "is_correct": true
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "oveja",
-                "is_correct": false
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065827Z"
-    },
-    {
-        "id": "d2ff99cc43210dd537b02b97",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "c"
-        },
-        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
-        "reprompt": "Toque la imagen que empieza con {c_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "insectos",
-                "is_correct": false
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "agua",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "cactus",
-                "is_correct": true
-            }
-        ],
-        "metadata": {
-            "choices_count": 3,
-            "input_modality": {
-                "touch": true
-            },
-            "correct_count": 1,
-            "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
-            "is_auto_generated": true
-        },
-        "created_ts": "2020-03-02T19:09:13.065896Z"
-    },
-    {
-        "id": "c78dc6c3f535d59999a9bbe2",
-        "language": "es",
-        "type": "multiple_choice",
-        "answer_type": "single_answer",
-        "learning_objective": {
-            "id": "",
-            "type": "word_image",
-            "name": "i"
-        },
-        "prompt": "Toque la imagen que empieza con {i_sound} {i_sound}",
-        "reprompt": "Toque la imagen que empieza con {i_sound}",
-        "choices": [
-            {
-                "id": "0",
-                "type": "text",
-                "value": "oso",
-                "is_correct": false
-            },
-            {
-                "id": "1",
+                "id": "77677d93999f74c717dc530167ab6992",
                 "type": "text",
                 "value": "uvas",
                 "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "im\u00e1n",
-                "is_correct": true
             }
         ],
         "metadata": {
@@ -830,41 +38,41 @@
             },
             "correct_count": 1,
             "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
+            "difficulty": 0.9166666666666666,
             "is_auto_generated": true
         },
-        "created_ts": "2020-03-02T19:09:13.065964Z"
+        "created_ts": "2020-03-20T01:28:15.059164Z"
     },
     {
-        "id": "ad0ad220b7588565abc5c28b",
+        "id": "ba287aaf1b67f6ff9cd109e6",
         "language": "es",
         "type": "multiple_choice",
         "answer_type": "single_answer",
         "learning_objective": {
-            "id": "",
+            "id": "6f8f57715090da2632453988d9a1501b",
             "type": "word_image",
-            "name": "o"
+            "name": "m"
         },
-        "prompt": "Toque la imagen que empieza con {o_sound} {o_sound}",
-        "reprompt": "Toque la imagen que empieza con {o_sound}",
+        "prompt": "Toque la imagen que empieza con {m_sound} {m_sound}",
+        "reprompt": "Toque la imagen que empieza con {m_sound}",
         "choices": [
             {
-                "id": "0",
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
                 "type": "text",
-                "value": "oveja",
+                "value": "im\u00e1n",
+                "is_correct": false
+            },
+            {
+                "id": "42239b8342a1fe81a71703f6de711073",
+                "type": "text",
+                "value": "cactus",
+                "is_correct": false
+            },
+            {
+                "id": "81b1c93c5f431703e4c3bfb0274305e0",
+                "type": "text",
+                "value": "manzana",
                 "is_correct": true
-            },
-            {
-                "id": "1",
-                "type": "text",
-                "value": "moneda",
-                "is_correct": false
-            },
-            {
-                "id": "2",
-                "type": "text",
-                "value": "estrella",
-                "is_correct": false
             }
         ],
         "metadata": {
@@ -874,18 +82,18 @@
             },
             "correct_count": 1,
             "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
+            "difficulty": 0.9166666666666666,
             "is_auto_generated": true
         },
-        "created_ts": "2020-03-02T19:09:13.066034Z"
+        "created_ts": "2020-03-20T01:28:15.063186Z"
     },
     {
-        "id": "a15230d1190b2291774d6910",
+        "id": "499f40e21d53ac814a4d5ea6",
         "language": "es",
         "type": "multiple_choice",
         "answer_type": "single_answer",
         "learning_objective": {
-            "id": "",
+            "id": "4a8a08f09d37b73795649038408b5f33",
             "type": "word_image",
             "name": "c"
         },
@@ -893,21 +101,21 @@
         "reprompt": "Toque la imagen que empieza con {c_sound}",
         "choices": [
             {
-                "id": "0",
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
                 "type": "text",
-                "value": "isla",
+                "value": "elefante",
                 "is_correct": false
             },
             {
-                "id": "1",
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
                 "type": "text",
-                "value": "uno",
+                "value": "orca",
                 "is_correct": false
             },
             {
-                "id": "2",
+                "id": "0ec846e8944bec2167597937cfa27cd0",
                 "type": "text",
-                "value": "casa",
+                "value": "coraz\u00f3n",
                 "is_correct": true
             }
         ],
@@ -918,9 +126,9 @@
             },
             "correct_count": 1,
             "correct_percent": 0.3333333333333333,
-            "difficulty": 0,
+            "difficulty": 0.9249999999999999,
             "is_auto_generated": true
         },
-        "created_ts": "2020-03-02T19:09:13.066103Z"
+        "created_ts": "2020-03-20T01:28:15.063439Z"
     }
 ]
