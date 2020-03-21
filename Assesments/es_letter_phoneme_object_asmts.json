@@ -130,5 +130,797 @@
             "is_auto_generated": true
         },
         "created_ts": "2020-03-20T01:28:15.063439Z"
+    },
+    {
+        "id": "4c807addbe919e4d923b52dd",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "d95679752134a2d9eb61dbd7b91c4bcc",
+            "type": "word_image",
+            "name": "o"
+        },
+        "prompt": "Toque la imagen que empieza con {o_sound} {o_sound}",
+        "reprompt": "Toque la imagen que empieza con {o_sound}",
+        "choices": [
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": true
+            },
+            {
+                "id": "81b1c93c5f431703e4c3bfb0274305e0",
+                "type": "text",
+                "value": "manzana",
+                "is_correct": false
+            },
+            {
+                "id": "a7dbf5ab6da4e3b41e4a6fecc7e6f7c3",
+                "type": "text",
+                "value": "avi\u00f3n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.063599Z"
+    },
+    {
+        "id": "ea8cb0888e07c98244a2a419",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": false
+            },
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": false
+            },
+            {
+                "id": "42239b8342a1fe81a71703f6de711073",
+                "type": "text",
+                "value": "cactus",
+                "is_correct": true
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.063785Z"
+    },
+    {
+        "id": "8fa6386717ef8c01c5baaf5b",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "7b774effe4a349c6dd82ad4f4f21d34c",
+            "type": "word_image",
+            "name": "u"
+        },
+        "prompt": "Toque la imagen que empieza con {u_sound} {u_sound}",
+        "reprompt": "Toque la imagen que empieza con {u_sound}",
+        "choices": [
+            {
+                "id": "0ec846e8944bec2167597937cfa27cd0",
+                "type": "text",
+                "value": "coraz\u00f3n",
+                "is_correct": false
+            },
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": true
+            },
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.875,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.063986Z"
+    },
+    {
+        "id": "6337d3cbaffd1b24279310a3",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": false
+            },
+            {
+                "id": "42239b8342a1fe81a71703f6de711073",
+                "type": "text",
+                "value": "cactus",
+                "is_correct": true
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 1.0,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.064132Z"
+    },
+    {
+        "id": "cb1a9d470d50d76f277eb973",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "6f8f57715090da2632453988d9a1501b",
+            "type": "word_image",
+            "name": "m"
+        },
+        "prompt": "Toque la imagen que empieza con {m_sound} {m_sound}",
+        "reprompt": "Toque la imagen que empieza con {m_sound}",
+        "choices": [
+            {
+                "id": "81b1c93c5f431703e4c3bfb0274305e0",
+                "type": "text",
+                "value": "manzana",
+                "is_correct": true
+            },
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": false
+            },
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9666666666666667,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.064272Z"
+    },
+    {
+        "id": "3d820fe125e1ed5f160be32e",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": false
+            },
+            {
+                "id": "0ec846e8944bec2167597937cfa27cd0",
+                "type": "text",
+                "value": "coraz\u00f3n",
+                "is_correct": true
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.064409Z"
+    },
+    {
+        "id": "aa1f1f698817f195f5fd18dc",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "e1671797c52e15f763380b45e841ec32",
+            "type": "word_image",
+            "name": "e"
+        },
+        "prompt": "Toque la imagen que empieza con {e_sound} {e_sound}",
+        "reprompt": "Toque la imagen que empieza con {e_sound}",
+        "choices": [
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": true
+            },
+            {
+                "id": "a7dbf5ab6da4e3b41e4a6fecc7e6f7c3",
+                "type": "text",
+                "value": "avi\u00f3n",
+                "is_correct": false
+            },
+            {
+                "id": "202447d5d44ce12531f7207cb33b6bf7",
+                "type": "text",
+                "value": "casa",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 1.0,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.065366Z"
+    },
+    {
+        "id": "926c6975480500bf2bb6447e",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "42239b8342a1fe81a71703f6de711073",
+                "type": "text",
+                "value": "cactus",
+                "is_correct": true
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            },
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.065589Z"
+    },
+    {
+        "id": "d02c2b57ffef06ca65686bb1",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "865c0c0b4ab0e063e5caa3387c1a8741",
+            "type": "word_image",
+            "name": "i"
+        },
+        "prompt": "Toque la imagen que empieza con {i_sound} {i_sound}",
+        "reprompt": "Toque la imagen que empieza con {i_sound}",
+        "choices": [
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": false
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": true
+            },
+            {
+                "id": "a7dbf5ab6da4e3b41e4a6fecc7e6f7c3",
+                "type": "text",
+                "value": "avi\u00f3n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.861111111111111,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.065740Z"
+    },
+    {
+        "id": "73a6b13ba59277c451c9d815",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            },
+            {
+                "id": "202447d5d44ce12531f7207cb33b6bf7",
+                "type": "text",
+                "value": "casa",
+                "is_correct": true
+            },
+            {
+                "id": "a7dbf5ab6da4e3b41e4a6fecc7e6f7c3",
+                "type": "text",
+                "value": "avi\u00f3n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.861111111111111,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.065886Z"
+    },
+    {
+        "id": "74d35e5bf6a7965251f74d1b",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "e1671797c52e15f763380b45e841ec32",
+            "type": "word_image",
+            "name": "e"
+        },
+        "prompt": "Toque la imagen que empieza con {e_sound} {e_sound}",
+        "reprompt": "Toque la imagen que empieza con {e_sound}",
+        "choices": [
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": true
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            },
+            {
+                "id": "a7dbf5ab6da4e3b41e4a6fecc7e6f7c3",
+                "type": "text",
+                "value": "avi\u00f3n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.861111111111111,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066028Z"
+    },
+    {
+        "id": "23e3945d589121bffa7d511f",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "6f8f57715090da2632453988d9a1501b",
+            "type": "word_image",
+            "name": "m"
+        },
+        "prompt": "Toque la imagen que empieza con {m_sound} {m_sound}",
+        "reprompt": "Toque la imagen que empieza con {m_sound}",
+        "choices": [
+            {
+                "id": "202447d5d44ce12531f7207cb33b6bf7",
+                "type": "text",
+                "value": "casa",
+                "is_correct": false
+            },
+            {
+                "id": "81b1c93c5f431703e4c3bfb0274305e0",
+                "type": "text",
+                "value": "manzana",
+                "is_correct": true
+            },
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9166666666666666,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066180Z"
+    },
+    {
+        "id": "ea8cb0888e07c98244a2a419",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": false
+            },
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": false
+            },
+            {
+                "id": "42239b8342a1fe81a71703f6de711073",
+                "type": "text",
+                "value": "cactus",
+                "is_correct": true
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066322Z"
+    },
+    {
+        "id": "edc2c495f154c38ffeef40ef",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "7b774effe4a349c6dd82ad4f4f21d34c",
+            "type": "word_image",
+            "name": "u"
+        },
+        "prompt": "Toque la imagen que empieza con {u_sound} {u_sound}",
+        "reprompt": "Toque la imagen que empieza con {u_sound}",
+        "choices": [
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": true
+            },
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": false
+            },
+            {
+                "id": "42239b8342a1fe81a71703f6de711073",
+                "type": "text",
+                "value": "cactus",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066455Z"
+    },
+    {
+        "id": "926c6975480500bf2bb6447e",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "42239b8342a1fe81a71703f6de711073",
+                "type": "text",
+                "value": "cactus",
+                "is_correct": true
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            },
+            {
+                "id": "77677d93999f74c717dc530167ab6992",
+                "type": "text",
+                "value": "uvas",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066588Z"
+    },
+    {
+        "id": "991dea2ec13c88987335dd5a",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "6f8f57715090da2632453988d9a1501b",
+            "type": "word_image",
+            "name": "m"
+        },
+        "prompt": "Toque la imagen que empieza con {m_sound} {m_sound}",
+        "reprompt": "Toque la imagen que empieza con {m_sound}",
+        "choices": [
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": false
+            },
+            {
+                "id": "81b1c93c5f431703e4c3bfb0274305e0",
+                "type": "text",
+                "value": "manzana",
+                "is_correct": true
+            },
+            {
+                "id": "a7dbf5ab6da4e3b41e4a6fecc7e6f7c3",
+                "type": "text",
+                "value": "avi\u00f3n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066721Z"
+    },
+    {
+        "id": "74d35e5bf6a7965251f74d1b",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "e1671797c52e15f763380b45e841ec32",
+            "type": "word_image",
+            "name": "e"
+        },
+        "prompt": "Toque la imagen que empieza con {e_sound} {e_sound}",
+        "reprompt": "Toque la imagen que empieza con {e_sound}",
+        "choices": [
+            {
+                "id": "87bc60b1d2525741a77d18fda9476cd8",
+                "type": "text",
+                "value": "elefante",
+                "is_correct": true
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            },
+            {
+                "id": "a7dbf5ab6da4e3b41e4a6fecc7e6f7c3",
+                "type": "text",
+                "value": "avi\u00f3n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.861111111111111,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066854Z"
+    },
+    {
+        "id": "3d820fe125e1ed5f160be32e",
+        "language": "es",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Toque la imagen que empieza con {c_sound} {c_sound}",
+        "reprompt": "Toque la imagen que empieza con {c_sound}",
+        "choices": [
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": false
+            },
+            {
+                "id": "0ec846e8944bec2167597937cfa27cd0",
+                "type": "text",
+                "value": "coraz\u00f3n",
+                "is_correct": true
+            },
+            {
+                "id": "cd8ac3170749360a1e38f9d50d32b989",
+                "type": "text",
+                "value": "im\u00e1n",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9583333333333334,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:28:15.066986Z"
     }
 ]

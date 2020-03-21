@@ -130,5 +130,797 @@
             "is_auto_generated": true
         },
         "created_ts": "2020-03-20T01:27:30.111378Z"
+    },
+    {
+        "id": "2852ac9cb3e502d2d03d4dfb",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "2dccd1ab3e03990aea77359831c85ca2",
+                "type": "text",
+                "value": "cookie",
+                "is_correct": true
+            },
+            {
+                "id": "1f3870be274f6c49b3e31a0c6728957f",
+                "type": "text",
+                "value": "apple",
+                "is_correct": false
+            },
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.8125,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.111552Z"
+    },
+    {
+        "id": "e9a6f27df78d6997b6e5f555",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "2db95e8e1a9267b7a1188556b2013b33",
+            "type": "word_image",
+            "name": "l"
+        },
+        "prompt": "Tap the picture with the first sound {l_sound} {l_sound}",
+        "reprompt": "Tap the picture with the first sound {l_sound}",
+        "choices": [
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": true
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": false
+            },
+            {
+                "id": "4c39e90d6a5c38a3f8a9b1f05840f240",
+                "type": "text",
+                "value": "guitar",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9277777777777777,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.111689Z"
+    },
+    {
+        "id": "0bb83ca9a38f8be2bff6d617",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "9726255eec083aa56dc0449a21b33190",
+                "type": "text",
+                "value": "money",
+                "is_correct": false
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": true
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9791666666666666,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.111863Z"
+    },
+    {
+        "id": "4a0a28daf5b73640801cd1c1",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "8277e0910d750195b448797616e091ad",
+            "type": "word_image",
+            "name": "d"
+        },
+        "prompt": "Tap the picture with the first sound {d_sound} {d_sound}",
+        "reprompt": "Tap the picture with the first sound {d_sound}",
+        "choices": [
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": true
+            },
+            {
+                "id": "4c39e90d6a5c38a3f8a9b1f05840f240",
+                "type": "text",
+                "value": "guitar",
+                "is_correct": false
+            },
+            {
+                "id": "1f3870be274f6c49b3e31a0c6728957f",
+                "type": "text",
+                "value": "apple",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9555555555555556,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.112065Z"
+    },
+    {
+        "id": "436e84394d179c29fdc87a5f",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": false
+            },
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": false
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": true
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9722222222222222,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.112252Z"
+    },
+    {
+        "id": "d7da0796ccdd93f3b5d28282",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "d95679752134a2d9eb61dbd7b91c4bcc",
+            "type": "word_image",
+            "name": "o"
+        },
+        "prompt": "Tap the picture with the first sound {o_sound} {o_sound}",
+        "reprompt": "Tap the picture with the first sound {o_sound}",
+        "choices": [
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            },
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": true
+            },
+            {
+                "id": "005d05de29487ec44cd07bd9d757d4e1",
+                "type": "text",
+                "value": "carrot",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.112386Z"
+    },
+    {
+        "id": "aef370b3d917460aa262f024",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "b2f5ff47436671b6e533d8dc3614845d",
+            "type": "word_image",
+            "name": "g"
+        },
+        "prompt": "Tap the picture with the first sound {g_sound} {g_sound}",
+        "reprompt": "Tap the picture with the first sound {g_sound}",
+        "choices": [
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            },
+            {
+                "id": "4c39e90d6a5c38a3f8a9b1f05840f240",
+                "type": "text",
+                "value": "guitar",
+                "is_correct": true
+            },
+            {
+                "id": "9726255eec083aa56dc0449a21b33190",
+                "type": "text",
+                "value": "money",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9180555555555555,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.112514Z"
+    },
+    {
+        "id": "1bb6628e90963c049127b625",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": true
+            },
+            {
+                "id": "1f3870be274f6c49b3e31a0c6728957f",
+                "type": "text",
+                "value": "apple",
+                "is_correct": false
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 1.0,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.112640Z"
+    },
+    {
+        "id": "69e28ab3176f1f0245683168",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "2db95e8e1a9267b7a1188556b2013b33",
+            "type": "word_image",
+            "name": "l"
+        },
+        "prompt": "Tap the picture with the first sound {l_sound} {l_sound}",
+        "reprompt": "Tap the picture with the first sound {l_sound}",
+        "choices": [
+            {
+                "id": "9726255eec083aa56dc0449a21b33190",
+                "type": "text",
+                "value": "money",
+                "is_correct": false
+            },
+            {
+                "id": "005d05de29487ec44cd07bd9d757d4e1",
+                "type": "text",
+                "value": "carrot",
+                "is_correct": false
+            },
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": true
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9458333333333333,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.112804Z"
+    },
+    {
+        "id": "2d15d671f30636c13185031e",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": false
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": true
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.8194444444444443,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.112935Z"
+    },
+    {
+        "id": "ba9c9783f5394f5db780121f",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "2db95e8e1a9267b7a1188556b2013b33",
+            "type": "word_image",
+            "name": "l"
+        },
+        "prompt": "Tap the picture with the first sound {l_sound} {l_sound}",
+        "reprompt": "Tap the picture with the first sound {l_sound}",
+        "choices": [
+            {
+                "id": "1f3870be274f6c49b3e31a0c6728957f",
+                "type": "text",
+                "value": "apple",
+                "is_correct": false
+            },
+            {
+                "id": "9726255eec083aa56dc0449a21b33190",
+                "type": "text",
+                "value": "money",
+                "is_correct": false
+            },
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": true
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9513888888888888,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113062Z"
+    },
+    {
+        "id": "58bd8a01fbc9a9aefe0b1a5f",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "6f8f57715090da2632453988d9a1501b",
+            "type": "word_image",
+            "name": "m"
+        },
+        "prompt": "Tap the picture with the first sound {m_sound} {m_sound}",
+        "reprompt": "Tap the picture with the first sound {m_sound}",
+        "choices": [
+            {
+                "id": "9726255eec083aa56dc0449a21b33190",
+                "type": "text",
+                "value": "money",
+                "is_correct": true
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9791666666666666,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113188Z"
+    },
+    {
+        "id": "2d15d671f30636c13185031e",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": false
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": true
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.8194444444444443,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113314Z"
+    },
+    {
+        "id": "cc3d9bc98cc100c0367ee150",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "8277e0910d750195b448797616e091ad",
+            "type": "word_image",
+            "name": "d"
+        },
+        "prompt": "Tap the picture with the first sound {d_sound} {d_sound}",
+        "reprompt": "Tap the picture with the first sound {d_sound}",
+        "choices": [
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": false
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": false
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": true
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.8194444444444443,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113440Z"
+    },
+    {
+        "id": "1bb6628e90963c049127b625",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": true
+            },
+            {
+                "id": "1f3870be274f6c49b3e31a0c6728957f",
+                "type": "text",
+                "value": "apple",
+                "is_correct": false
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 1.0,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113564Z"
+    },
+    {
+        "id": "d7da0796ccdd93f3b5d28282",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "d95679752134a2d9eb61dbd7b91c4bcc",
+            "type": "word_image",
+            "name": "o"
+        },
+        "prompt": "Tap the picture with the first sound {o_sound} {o_sound}",
+        "reprompt": "Tap the picture with the first sound {o_sound}",
+        "choices": [
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            },
+            {
+                "id": "a753c3945400cd54c7ffd35fc07fe031",
+                "type": "text",
+                "value": "orca",
+                "is_correct": true
+            },
+            {
+                "id": "005d05de29487ec44cd07bd9d757d4e1",
+                "type": "text",
+                "value": "carrot",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113689Z"
+    },
+    {
+        "id": "f6cd712c3429efd7820873f1",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "4a8a08f09d37b73795649038408b5f33",
+            "type": "word_image",
+            "name": "c"
+        },
+        "prompt": "Tap the picture with the first sound {c_sound} {c_sound}",
+        "reprompt": "Tap the picture with the first sound {c_sound}",
+        "choices": [
+            {
+                "id": "dc1d71bbb5c4d2a5e936db79ef10c19f",
+                "type": "text",
+                "value": "log",
+                "is_correct": false
+            },
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": true
+            },
+            {
+                "id": "4c39e90d6a5c38a3f8a9b1f05840f240",
+                "type": "text",
+                "value": "guitar",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 0.9277777777777777,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113813Z"
+    },
+    {
+        "id": "38da65e127cb43a4cf139826",
+        "language": "en",
+        "type": "multiple_choice",
+        "answer_type": "single_answer",
+        "learning_objective": {
+            "id": "0cc175b9c0f1b6a831c399e269772661",
+            "type": "word_image",
+            "name": "a"
+        },
+        "prompt": "Tap the picture with the first sound {a_sound} {a_sound}",
+        "reprompt": "Tap the picture with the first sound {a_sound}",
+        "choices": [
+            {
+                "id": "81566e986cf8cc685a05ac5b634af7f8",
+                "type": "text",
+                "value": "cow",
+                "is_correct": false
+            },
+            {
+                "id": "1f3870be274f6c49b3e31a0c6728957f",
+                "type": "text",
+                "value": "apple",
+                "is_correct": true
+            },
+            {
+                "id": "06d80eb0c50b49a509b49f2424e8c805",
+                "type": "text",
+                "value": "dog",
+                "is_correct": false
+            }
+        ],
+        "metadata": {
+            "choices_count": 3,
+            "input_modality": {
+                "touch": true
+            },
+            "correct_count": 1,
+            "correct_percent": 0.3333333333333333,
+            "difficulty": 1.0,
+            "is_auto_generated": true
+        },
+        "created_ts": "2020-03-20T01:27:30.113938Z"
     }
 ]
